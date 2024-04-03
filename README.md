@@ -1,23 +1,22 @@
 # 김동현 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+> 안녕하세요. 풀스택 개발자를 꿈꾸는 초보입니다.
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+저는 협업과정에 성실하게 임하고, 주어진 역할에 최선을 다합니다.
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: ehdgus3310@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/dohdark
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2024-SMHRD-KDT-BigData-23/WeatherFit)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
+>나의  포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
 >기술 스택:  
